@@ -11,4 +11,4 @@ A five fold cross validation is used to find the best model based on lowest RMSE
 
 Feature importance graph is plotted to find which feature have more weight in predicting the target prices. Since the feature were artificially generarted for this competetion and had no real meaning, this graph may not be much useful here but will provide valuable infromation in practical problems.
 
-The submission file was created and submitted to the competetion. The model was able to provide 71% on the testing set not available to public.
+The submission file was created and submitted to the competetion. The model was able to provide 71% accuracy on the testing set not available to public.
